@@ -1,0 +1,8 @@
+# System Files
+.DS_Store
+Thumbs.db
+.env
+.directory
+.DS_Store
+node_modules
+package-lock.json
