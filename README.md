@@ -5,8 +5,8 @@
 <a href="https://travis-ci.org/RDAxRoadkill/TestExamples"><img src="https://travis-ci.org/RDAxRoadkill/TestExamples.svg?branch=master" /></a><br>
 
 # Sources
-https://github.com/istanbuljs/nyc
-https://github.com/nickmerwin/node-coveralls
-https://mochajs.org/
-https://istanbul.js.org/docs/tutorials/mocha/
-https://github.com/dwyl/learn-coveralls.io
+https://github.com/istanbuljs/nyc<br>
+https://github.com/nickmerwin/node-coveralls<br>
+https://mochajs.org/<br>
+https://istanbul.js.org/docs/tutorials/mocha/<br>
+https://github.com/dwyl/learn-coveralls.io<br>
