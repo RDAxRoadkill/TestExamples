@@ -10,3 +10,4 @@ https://github.com/nickmerwin/node-coveralls<br>
 https://mochajs.org/<br>
 https://istanbul.js.org/docs/tutorials/mocha/<br>
 https://github.com/dwyl/learn-coveralls.io<br>
+http://codeheaven.io/javascript-code-coverage-with-instanbul-and-coveralls/<br>
