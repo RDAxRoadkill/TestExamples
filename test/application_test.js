@@ -10,8 +10,7 @@ var assert = require('assert');
 describe('Router test', () => {
   describe('"up"', () => {
     it('should be a function', () => {
-      expect(Router.Up.to.not.throw());
-      done();
+      
     })
   })
 })
