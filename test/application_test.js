@@ -1,10 +1,17 @@
+'use strict'
 
+const chai = require('chai')
+const chaiHttp = require('chai-http')
+const should = chai.should()
+const expect = chai.expect()
+const Router = require('../router')
 var assert = require('assert');
 
-describe('Array', function() {
-  describe('#indexOf()', function() {
-    it('should return -1 when the value is not present', function() {
-      assert.equal([1,2,3].indexOf(4), -1);
-    });
-  });
-});
+describe('Router test', () => {
+  describe('"up"', () => {
+    it('should be a function', () => {
+      expect(Router.Up.to.not.throw());
+      done();
+    })
+  })
+})
